@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and it's part of the Udemy Course Modern [React with Redux [2023 Update]](https://www.udemy.com/course/react-redux/).
 
 ## Available Scripts
 
